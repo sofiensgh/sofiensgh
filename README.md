@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+sofiensgh_OS+...;%3E+Loading+modules%3A+React%2C+Node%2C+Python;%3E+Access+granted;%3E+Status%3A+Open+to+opportunities" alt="Typing SVG" />
 </a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800&animation=blinking" width="70%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1200&pause=1200&color=39FF14&center=true&vCenter=true&width=500&lines=%E2%97%89+SYSTEM+STATUS%3A+ONLINE+%E2%97%89" alt="Status blink" />
+
 </div>
 
 <br/>
@@ -34,9 +38,9 @@ root@sofiensgh:~$ cat core_stack.log
 [![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/sofiensgh)
 [![Gmail](https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:sofiensghaier2@gmail.com)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:39ff14&height=3&width=800" width="70%"/>
 
-<br/>
+</div>
 
 ### `> system_stats --render`
 
@@ -49,13 +53,25 @@ root@sofiensgh:~$ cat core_stack.log
 
 <br/>
 
+### `> render --activity-graph`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiensgh&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800" width="70%"/>
+</div>
+
 ### `> render --contribution-snake`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800" width="70%"/>
+</div>
 
 ### `> ls ./projects`
 
@@ -90,7 +106,9 @@ Web scraping platform for real-time price comparison.
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800" width="70%"/>
+</div>
 
 ### `> cat tech_stack.json`
 

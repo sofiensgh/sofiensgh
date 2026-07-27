@@ -1,32 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:001a00&height=210&section=header&text=SOFIEN%20ESSGHAIER&fontSize=38&fontColor=39ff14&animation=fadeIn&fontAlignY=35&desc=%3C%20Full-Stack%20Developer%20%2F%2F%20System.Init()%20%3E&descAlignY=55&descSize=16&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:001a00&height=200&section=header&text=SOFIEN%20ESSGHAIER&fontSize=38&fontColor=39ff14&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=00ff41" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+sofiensgh_OS+...;%3E+Loading+modules%3A+React%2C+Node%2C+Python;%3E+Access+granted+%E2%9C%93;%3E+Status%3A+Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+sofiensgh_OS+...;%3E+Loading+modules%3A+React%2C+Node%2C+Python;%3E+Access+granted;%3E+Status%3A+Open+to+opportunities" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-```ansi
-┌──────────────────────────────────────────────────────────┐
-│ root@sofiensgh:~$ whoami                                  │
-├──────────────────────────────────────────────────────────┤
-│  NAME       :: Sofien Essghaier                           │
-│  ROLE       :: Full-Stack Developer                       │
-│  LOCATION   :: Tunisia [::TN]                              │
-│  EDUCATION  :: TekUp University — Software Engineering    │
-│  STATUS     :: [ONLINE] Open to opportunities              │
-│                                                              │
-│  root@sofiensgh:~$ cat core_stack.log                      │
-│  LANG    > Python · TypeScript · JavaScript · Java · C++ · C# · PHP · Kotlin │
-│  FRONT   > React · Angular · Tailwind · Bootstrap          │
-│  BACK    > Node.js · Express.js                            │
-│  DATA    > MongoDB · MySQL · OracleDB · Firebase           │
-│  INFRA   > Git · Docker · Postman · Puppeteer              │
-└──────────────────────────────────────────────────────────┘
+```
+root@sofiensgh:~$ whoami
+
+  NAME       :: Sofien Essghaier
+  ROLE       :: Full-Stack Developer
+  LOCATION   :: Tunisia
+  EDUCATION  :: TekUp University, Software Engineering
+  STATUS     :: Open to opportunities
+
+root@sofiensgh:~$ cat core_stack.log
+
+  LANG    > Python, TypeScript, JavaScript, Java, C++, C#, PHP, Kotlin
+  FRONT   > React, Angular, Tailwind, Bootstrap
+  BACK    > Node.js, Express.js
+  DATA    > MongoDB, MySQL, OracleDB, Firebase
+  INFRA   > Git, Docker, Postman, Puppeteer
 ```
 
 <div align="center">
@@ -39,50 +38,38 @@
 
 <br/>
 
-## `> system_stats --render`
+### `> system_stats --render`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sofiensgh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiensgh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiensgh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sofiensgh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiensgh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="35%"/>
 
-<br/>
-
-## `> access --trophies`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sofiensgh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 <br/>
 
-## `> render --contribution-snake`
+### `> render --contribution-snake`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ **Setup required** — this snake is currently a broken link because the workflow that generates it hasn't run in your account yet. See **"Making the snake actually work"** below.
-
 <br/>
 
-## `> ls ./projects`
+### `> ls ./projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎙️ Voice Clone** `Python`
+**Voice Clone** `Python`
 Real-time voice changing desktop/web app with multiple voices and TTS using Hugging Face.
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Interview Simulator** `MERN` `Vapi AI`
+**AI Interview Simulator** `MERN` `Vapi AI`
 Interview simulator with voice interaction and real-time feedback.
 
 </td>
@@ -90,14 +77,14 @@ Interview simulator with voice interaction and real-time feedback.
 <tr>
 <td width="50%" valign="top">
 
-**🎵 Music Recognition App** `Android` `Firebase`
+**Music Recognition App** `Android` `Firebase`
 Real-time audio recognition using Firebase.
 
 </td>
 <td width="50%" valign="top">
 
-**🛒 Price Comparison Scraper** `JS` `TS` `Tailwind`
-Web scraping platform for real-time price comparison (Final Year Project).
+**Price Comparison Scraper** `JS` `TS` `Tailwind`
+Web scraping platform for real-time price comparison.
 
 </td>
 </tr>
@@ -105,7 +92,7 @@ Web scraping platform for real-time price comparison (Final Year Project).
 
 <br/>
 
-## `> cat tech_stack.json`
+### `> cat tech_stack.json`
 
 <div align="center">
 
@@ -143,21 +130,3 @@ Web scraping platform for real-time price comparison (Final Year Project).
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0d1117,100:000000&height=100&section=footer"/>
 </div>
-
-<br/>
-
----
-
-## 🐍 Making the snake actually work
-
-The snake image is just a `<img>` tag pointing to a file that doesn't exist yet — it renders as broken until a GitHub Action generates it for **your** account. Here's the one-time setup:
-
-1. Create a **new repository** named exactly your username: `sofiensgh` (this is the special "profile" repo — GitHub auto-shows its README on your profile page).
-2. Put this `README.md` in the root of that repo.
-3. Also add the included `.github/workflows/snake.yml` file to that same repo (same folder structure — `.github/workflows/snake.yml`).
-4. Commit and push to `main`.
-5. Go to the repo's **Actions** tab → you'll see "Generate Snake Animation" → click **Run workflow** once manually (it also auto-runs every 6 hours after that).
-6. Once it finishes (green check), it creates a new branch called `output` in your repo with the generated SVG — that's what the README image links to.
-7. Refresh your profile page — the snake should now animate through your real contribution graph.
-
-If step 5 fails with a permissions error, go to **Repo Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions"**, then re-run.

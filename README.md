@@ -14,23 +14,15 @@
 
 <br/>
 
-```
-root@sofiensgh:~$ whoami
+### `> whoami --matrix`
 
-  NAME       :: Sofien Essghaier
-  ROLE       :: Full-Stack Developer
-  LOCATION   :: Tunisia
-  EDUCATION  :: TekUp University, Software Engineering
-  STATUS     :: Open to opportunities
+<div align="center">
 
-root@sofiensgh:~$ cat core_stack.log
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=2500&color=39FF14&background=000000&center=false&vCenter=false&width=750&height=260&lines=root%40sofiensgh%3A~%24%20whoami%0A%0A%20%20NAME%20%20%20%20%20%20%20%3A%3A%20Sofien%20Essghaier%0A%20%20ROLE%20%20%20%20%20%20%20%3A%3A%20Full-Stack%20Developer%0A%20%20LOCATION%20%20%20%3A%3A%20Tunisia%0A%20%20EDUCATION%20%20%3A%3A%20TekUp%20University%2C%20Software%20Engineering%0A%20%20STATUS%20%20%20%20%20%3A%3A%20Open%20to%20opportunities;root%40sofiensgh%3A~%24%20cat%20core_stack.log%0A%0A%20%20LANG%20%20%20%20%3E%20Python%2C%20TypeScript%2C%20JavaScript%2C%20Java%2C%20C%2B%2B%2C%20C%23%2C%20PHP%2C%20Kotlin%0A%20%20FRONT%20%20%20%3E%20React%2C%20Angular%2C%20Tailwind%2C%20Bootstrap%0A%20%20BACK%20%20%20%20%3E%20Node.js%2C%20Express.js%0A%20%20DATA%20%20%20%20%3E%20MongoDB%2C%20MySQL%2C%20OracleDB%2C%20Firebase%0A%20%20INFRA%20%20%20%3E%20Git%2C%20Docker%2C%20Postman%2C%20Puppeteer" alt="Matrix terminal" width="100%"/>
 
-  LANG    > Python, TypeScript, JavaScript, Java, C++, C#, PHP, Kotlin
-  FRONT   > React, Angular, Tailwind, Bootstrap
-  BACK    > Node.js, Express.js
-  DATA    > MongoDB, MySQL, OracleDB, Firebase
-  INFRA   > Git, Docker, Postman, Puppeteer
-```
+</div>
+
+<br/>
 
 <div align="center">
 

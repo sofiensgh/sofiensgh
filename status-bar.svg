@@ -1,0 +1,22 @@
+<svg width="360" height="28" viewBox="0 0 360 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes eq { 0%, 100% { transform: scaleY(.35) } 50% { transform: scaleY(1) } }
+      .b {
+        animation: eq 1s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: 50% 100%;
+      }
+    </style>
+  </defs>
+  <text x="0" y="19" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold" fill="#39ff14">SYSTEM STATUS: ONLINE</text>
+  <g transform="translate(206,6)">
+    <rect class="b" x="0" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:0s"/>
+    <rect class="b" x="8" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.15s"/>
+    <rect class="b" x="16" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.3s"/>
+    <rect class="b" x="24" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.45s"/>
+    <rect class="b" x="32" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.6s"/>
+    <rect class="b" x="40" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.75s"/>
+    <rect class="b" x="48" y="0" width="5" height="16" fill="#39ff14" style="animation-delay:-.9s"/>
+  </g>
+</svg>

@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/matrix-rain.svg" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/name-banner.svg" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/terminal-hero.svg" width="88%"/>
+<img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/matrix-hero.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/status-bar.svg" width="45%"/>
 

@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/main/matrix-rain.svg" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:001a00&height=200&section=header&text=SOFIEN%20ESSGHAIER&fontSize=38&fontColor=39ff14&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=00ff41" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+sofiensgh_OS+...;%3E+Loading+modules%3A+React%2C+Node%2C+Python;%3E+Access+granted;%3E+Status%3A+Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+sofiensgh_OS+v2.0+...;%3E+Initializing+neural+interface+...;%3E+Loading+modules%3A+React%2C+Node%2C+Python;%3E+Decrypting+stack+...;%3E+Access+granted;%3E+Status%3A+Open+to+opportunities" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800&animation=blinking" width="70%"/>
@@ -51,6 +53,10 @@ root@sofiensgh:~$ cat core_stack.log
 
 </div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=sofiensgh&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
+</div>
+
 <br/>
 
 ### `> render --activity-graph`
@@ -67,6 +73,16 @@ root@sofiensgh:~$ cat core_stack.log
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sofiensgh/sofiensgh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ff41&height=3&width=800" width="70%"/>
+</div>
+
+### `> render --achievements`
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=sofiensgh&theme=matrix&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
 <div align="center">
@@ -135,6 +151,14 @@ Web scraping platform for real-time price comparison.
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39ff14)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14)
 
+</div>
+
+<br/>
+
+### `> shutdown --please`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1600&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=%3E+Syncing+to+%5BREMOTE%3Agithub%5D+...;%3E+Committing+latest+state+...;%3E+Shutting+down+...;%5Bsofiensgh%5D+%24+_+See+you+in+the+next+commit" alt="Sign off" />
 </div>
 
 <br/>
